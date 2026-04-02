@@ -45,6 +45,8 @@ repositories {
 ```
 Next, add the MixinExtras dependency to your project based on your build system:
 
+**Latest version:** ![GitHub Release](https://img.shields.io/github/v/release/ko-lja/MixinLoadConditions)
+
 <details><summary>ModDevGradle</summary>
 
 ```gradle
@@ -70,4 +72,4 @@ dependencies {
 </details>
 
 ### Credits
-- This extension 
+- This extension has taken some inspiration from Sponge Mixins itself and from MixinExtras
