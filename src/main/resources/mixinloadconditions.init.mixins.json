@@ -1,0 +1,5 @@
+{
+  "minVersion": "0.8",
+  "plugin": "lu.kolja.mixinloadconditions.platform.forge.MixinLoadConditionsConfigPlugin",
+  "priority": 1000
+}
